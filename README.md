@@ -12,4 +12,4 @@
 
 ---
 
-✨ Welcome to my GitHub! Feel free to explore my projects, including **SurveyHub**, a platform for creating public and private surveys, and **Mizu Spa HeadSpa**, a digital solution for spa reservations and e-commerce. Let’s build something amazing together! ✨  
+✨ Welcome to my GitHub! Feel free to explore my projects, including **SurveyHub**, a platform for creating public and private surveys. Let’s build something amazing together! ✨  
